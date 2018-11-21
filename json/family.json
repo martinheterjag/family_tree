@@ -1,0 +1,25 @@
+{
+    "family_members":[
+        {
+            "generation": 103,
+            "name": "Johan Martin Eriksson",
+            "birth_date": "1987-03-21",
+            "parent": "2",
+            "partner": "Josefina Kennebjörk"
+        },
+        {
+            "generation": 102,
+            "name": "Jan Åke Eriksson",
+            "birth_date": "1961-05-22",
+            "parent": "Karin Inga Birgitta Lengstam",
+            "partner": "Siv Eriksson"
+        },
+        {
+            "generation": 101,
+            "name": "Karin Inga Birgitta Lengstam",
+            "birth_date": "1987-03-21",
+            "parent": "",
+            "partner": "Åke Ericson"
+        },
+    ],
+}
