@@ -1,25 +1,46 @@
-{
-    "family_members":[
-        {
-            "generation": 103,
-            "name": "Johan Martin Eriksson",
-            "birth_date": "1987-03-21",
-            "parent": "2",
-            "partner": "Josefina Kennebjörk"
-        },
-        {
-            "generation": 102,
-            "name": "Jan Åke Eriksson",
-            "birth_date": "1961-05-22",
-            "parent": "Karin Inga Birgitta Lengstam",
-            "partner": "Siv Eriksson"
-        },
-        {
-            "generation": 101,
-            "name": "Karin Inga Birgitta Lengstam",
-            "birth_date": "1987-03-21",
-            "parent": "",
-            "partner": "Åke Ericson"
-        },
-    ],
-}
+[
+    {
+        "name": "Karin Inga Birgitta Lengstam",
+        "generation": 101,
+        "birth_date": "1939-10-11",
+        "dead": "2011-03-19",
+        "parent": "Karin Alida Ingeson",
+        "partner_id": 1
+    },
+    {
+        "name": "Åke Ericson",
+        "generation": 101,
+        "birth_date": "",
+        "dead": "",
+        "parent": "okänd",
+        "partner_id": 1
+    },
+    {
+        "name": "Lars-Olof Eskil Ingeson",
+        "generation": 101,
+        "birth_date": "1944-02-16",
+        "parent": "Karin Alida Ingeson",
+        "partner_id": 2
+    },
+    {
+        "name": "Jan Åke Eriksson",
+        "generation": 102,
+        "birth_date": "1961-05-22",
+        "parent": "Karin Inga Birgitta Lengstam",
+        "partner_id": 1
+    },
+    {
+        "name": "Siv Eriksson",
+        "generation": 102,
+        "birth_date": "1959-09-13",
+        "parent": "Dennis Johansson",
+        "partner_id": 1
+    },
+    {
+        "name": "Johan Martin Eriksson",
+        "generation": 103,
+        "birth_date": "1987-03-21",
+        "parent": "Jan Åke Eriksson",
+        "partner_id": 1
+    }
+]
